@@ -12,7 +12,7 @@
     <input id="prompt" placeholder="Enter your prompt...">
 
     <button onclick="generateImage()">Generate</button>
-
+    <button onclick="goback()">GO BACK</button>
     <div id="loading" class="loading hidden">
         <div class="spinner"></div>
         <p>Generating your image...</p>
@@ -26,6 +26,10 @@
 </div>
 
 <script>
+      function goback() {
+    // Redirect to the specified page
+    window.location.href = "https://chatbot-zxud.onrender.com/";
+  }
 function generateImage() {
     const prompt = document.getElementById("prompt").value;
     const loading = document.getElementById("loading");

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "prompt": "dog in moon",
+        "image_url": "https://cdn.bytez.com/model/output/google/imagen-4.0-ultra-generate-001/s8pr8y6PFaNd6-lYL27df.png",
+        "created_at": "2025-11-28 11:23:41"
+    },
+    {
+        "id": 2,
+        "prompt": "doremon",
+        "image_url": "https://cdn.bytez.com/model/output/google/imagen-4.0-ultra-generate-001/DXc6-QvNmgEZrwMsDvuUA.png",
+        "created_at": "2025-11-28 16:20:31"
+    }
+]
